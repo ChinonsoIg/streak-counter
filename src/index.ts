@@ -6,9 +6,9 @@ interface Streak {
 
 export function streakCounter(storage: Storage, date: Date) {
   return {
-    currentCount: 0,
-    startDate: "12/1/2021",
-    lastLoginDate: "12/1/2021",
+    currentCount: 1,
+    startDate: "1/20/2023",
+    lastLoginDate: "1/20/2023",
   }
   
 }
